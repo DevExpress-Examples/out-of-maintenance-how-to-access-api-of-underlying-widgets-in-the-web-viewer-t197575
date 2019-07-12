@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to access API of underlying widgets in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t197575)**
+**[[Run Online]](https://codecentral.devexpress.com/t197575/)**
 <!-- run online end -->
 
 
